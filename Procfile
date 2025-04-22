@@ -1,0 +1,1 @@
+web: dotnet TeamsAppBackend.dll
